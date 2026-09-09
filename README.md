@@ -81,6 +81,23 @@ The system consists of two main sides:
 
 ---
 
+## 📁 Project Structure
+
+```text
+smartsar-hiker-safety-system/
+├── assets/
+├── lib/
+│   ├── auth/
+│   ├── dashboard/
+│   ├── services/
+│   ├── main.dart
+│   └── qr_scanner_page.dart
+├── screenshots/
+├── analysis_options.yaml
+├── pubspec.yaml
+└── pubspec.lock
+```
+
 ## 🧪 System Testing
 
 The system was tested using real-device scenario-based testing.
@@ -142,6 +159,17 @@ The evaluation focused on:
 </table>
 
 ---
+
+## ⚙️ Setup Note
+
+This public repository does not include the original Firebase configuration file.
+
+To run the project, create your own Firebase project and generate your own `firebase_options.dart` file.
+
+Then run:
+
+flutter pub get
+flutter run
 
 ## 🚀 Future Improvements
 
