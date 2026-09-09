@@ -101,7 +101,7 @@ The evaluation focused on:
 
 ### Hiker Dashboard
 
-<img src="IMG_3674.PNG" width="350">
+<img src="IMG_3677.PNG" width="350">
 
 ---
 
