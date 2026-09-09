@@ -99,7 +99,9 @@ The evaluation focused on:
 
 ## 📱 Application Screens
 
-Screenshots of the mobile application and admin system will be added to this repository.
+### Hiker Dashboard
+
+<img src="IMG_3674.PNG" width="350">
 
 ---
 
