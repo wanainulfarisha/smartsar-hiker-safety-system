@@ -168,8 +168,10 @@ To run the project, create your own Firebase project and generate your own `fire
 
 Then run:
 
+```bash
 flutter pub get
 flutter run
+```
 
 ## 🚀 Future Improvements
 
