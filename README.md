@@ -99,9 +99,47 @@ The evaluation focused on:
 
 ## 📱 Application Screens
 
-### Hiker Dashboard
+<table>
+  <tr>
+    <td align="center">
+      <b>Hiker Dashboard</b><br><br>
+      <img src="screenshots/dashboard.PNG" width="280">
+    </td>
+    <td align="center">
+      <b>Journey Tracking</b><br><br>
+      <img src="screenshots/journey-map.PNG" width="280">
+    </td>
+  </tr>
 
-<img src="IMG_3677.PNG" width="350">
+  <tr>
+    <td align="center">
+      <b>QR Checkpoint Scanner</b><br><br>
+      <img src="screenshots/qr-scanner.PNG" width="280">
+    </td>
+    <td align="center">
+      <b>Offline Map</b><br><br>
+      <img src="screenshots/offline-map.PNG" width="280">
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <b>SOS Function</b><br><br>
+      <img src="screenshots/sos.PNG" width="280">
+    </td>
+    <td align="center">
+      <b>Hiker SOS Alert</b><br><br>
+      <img src="screenshots/hiker-sos-alert.PNG" width="280">
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" colspan="2">
+      <b>Admin Dashboard</b><br><br>
+      <img src="screenshots/admin-dashboard.PNG" width="300">
+    </td>
+  </tr>
+</table>
 
 ---
 
